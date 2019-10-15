@@ -6,6 +6,6 @@ Cuidado para não induzir a pontuação, principalmente entre os mais Jrs ou ent
 
 ## Conclusão
 
-Planning poker é uma maneira elegante de estimarmos tarefas e pelo que eu percebo dos times que eu entro, é que a falta de paciência na segunda rodada do poker a ansiedade por sair da reunião aumenta, portanto, exercício de pensar o máximo de tempo ajuda a não ter essa ansiedade e além disso podemos utilizar técnicas de [**Refinement**] (https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility). 
+Planning poker é uma maneira elegante de estimarmos tarefas e pelo que eu percebo dos times que eu entro, é que a falta de paciência na segunda rodada do poker a ansiedade por sair da reunião aumenta, portanto, exercício de pensar o máximo de tempo ajuda a não ter essa ansiedade e além disso podemos utilizar técnicas de [**Refinement**](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility). 
 
 [Início](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/README.md)
