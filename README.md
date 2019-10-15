@@ -14,4 +14,4 @@ Quando chegamos ao estado caótico, optamos por olhar para o mercado atrás de g
 
 Antes de chegar numa solução, que tem por base o "básico" do Agile, vamos entender o que de fato nos leva a essa incerteza (mentira): 
 
-1. [Não prestamos a devida atenção naquilo que fazemos.]()
+1. [Não prestamos a devida atenção naquilo que fazemos.](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/nao-saber-aquilo-que-fazemos.md)
