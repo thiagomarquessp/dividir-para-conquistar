@@ -14,23 +14,4 @@ Quando chegamos ao estado caótico, optamos por olhar para o mercado atrás de g
 
 Antes de chegar numa solução, que tem por base o "básico" do Agile, vamos entender o que de fato nos leva a essa incerteza (mentira): 
 
-1. Não prestamos a devida atenção naquilo que fazemos.
-    - Basicamente os times de desenvolvimento (inclui QA nessa viu), não passam pelo processo de entendimento sobre o que eu chamo de "filosofia ágil", ou seja, entender a história por trás do manifesto, entender os quatro grandes tópicos e o que cada um deles representam, ler algo sobre ao menos algum dos integrantes que lá estavam,como por exemplo, Kent Beck (Extreming Programming), Jeff Sutherland (Criador do Scrum), Bob Martin (Clean Code, Clean Agile, Clean Coder, etc), Andy Hunt & Dave Thomas (Pragmatic Programming series), Martin Fowler (TDD), Brian Marrik (The Craft of Software Testing), esses são alguns dos que estavam lá, cujo material já li, porém estão na lista leitura sobre Alistair Cockburn (Cristal family & autor de Agile Software Development: The Cooperative Game) e Jim Highsmith (autor de Adaptive Leadership: Accelerating Enterprise Agility), mas, sobre as pessoas que lá estavam, segue a lista: 
-        - Kent Beck
-        - Mike Beedle
-        - Arie van Bennekum
-        - Alistair Cockburn
-        - Ward Cunningham
-        - Martin Fowler
-        - James Grenning
-        - Jim Highsmith
-        - Andrew Hunt
-        - Ron Jeffries
-        - Jon Kern
-        - Brian Marick
-        -   Robert C. Martin
-        - Steve Mellor
-        - Ken Schwaber
-        - Jeff Sutherland
-        - Dave Thomas
-    - Sei que é meio complicado lembrar dos nomes de quem estava lá, mas somos os primeiros a criticar quando vem um Product Manager cheio de documentação e comunicação por email e lá dizemos "Indivíduos e interações mais que processos e ferramentas" ou "Software em funcionamento mais que documentação abrangente" e por aí vai, temos na língua isso, mas sequer sabemos o que de fato foi pensado e por quem foi pensado. Por trás da filosofia ágil se encontra o uso da técnica do TDD e simplesmente continuamos a dizer que isso não funciona, sendo que o próprio Kent Beck estava lá colaborando no dia do manifesto e que entraram em um acordo que para ser ágil seria necessário a prática de TDD tb.
+1. [Não prestamos a devida atenção naquilo que fazemos.]()
