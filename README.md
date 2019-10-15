@@ -16,3 +16,4 @@ Antes de chegar numa solução, que tem por base o "básico" do Agile, vamos ent
 
 1. [Não prestamos a devida atenção naquilo que fazemos;](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/nao-saber-aquilo-que-fazemos.md)
 2. [Erramos porque somos preguiçosos;](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/errar-por-preguica.md)
+3. [Planning Poker](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/planning-poker.md)
