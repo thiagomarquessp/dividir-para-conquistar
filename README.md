@@ -18,3 +18,4 @@ Antes de chegar numa solução, que tem por base o "básico" do Agile, vamos ent
 2. [Erramos porque somos preguiçosos;](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/errar-por-preguica.md)
 3. [Planning Poker](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/planning-poker.md)
 4. [Ser honesto ao estimar](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/ser-honesto.md)
+5. [Dividir para conquistar](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/dividir-para-conquistar.md)
