@@ -2,7 +2,7 @@
 
 Calma, não vamos falar da técnica em si, utilizada por Júlio Cesar, detalhada em seu [livro **De Bello Gallico** (Guerra das Gálias)](shorturl.at/fkyKT), que explicou como a vitória romana na guerra gaulesa era essencialmente uma política de “dividir” seus inimigos, aliar com tribos individuais durante suas disputas com adversários locais. 
 
-Trazendo isso para o contexto Agile, gosto do termo dividir para conquistar quando tratamos de **SPLIT** de estórias de usuário, que consiste em dividir uma estoria em diversas outras menores para que possamos entregar valor sempre, que a estória possa ser planejada de maneira mais eficaz, mais acertiva e claro, que possamos entrar em um processo de entrega daquilo que é suposto entregarmos (em termos de story points por iteração).
+Trazendo isso para o contexto Ágil, gosto do termo dividir para conquistar quando tratamos de **SPLIT** de estórias de usuário, que consiste em dividir uma estoria em diversas outras menores para que possamos entregar valor sempre, que a estória possa ser planejada de maneira mais eficaz, mais acertiva e claro, que possamos entrar em um processo de entrega daquilo que é suposto entregarmos (em termos de story points por iteração).
 
 ## Por que devemos dividir?
 
