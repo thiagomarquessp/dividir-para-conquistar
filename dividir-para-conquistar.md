@@ -23,3 +23,29 @@ Sei que vai doer, mas não aceite e não se submeta a prometer uma estória que 
 O exercício de estimar é interessante, porque na comparação dos fragmentos podemos ver que o 13 não era bem 13 e que era bem mais que isso, como ocorreu semanas atrás no time que eu atuo, onde ao dividirmos, chegamos em um fragmento que era outro 13 e dividimos de novo e no final chegamos a ter 12 estorias, totalizando em quase 47 story points e lembre-se, derivamos uma estória de apenas 13 em 47 story points só utilizando a comparação como parâmetro para estimar.
 
 **OBS.:** Se o time ainda não possui maturidade para duas ou mais pessoas trabalharem em cada fragmento da estória, priorize os fragmentos, suba uma estória para o sprint e as demais fiquem priorizadas no backlog. Digo isso porque sabemos que nem sempre é possível escrever uma estória utilizando de maneira [**INVEST**](https://bit.ly/2seGEMl) e que leva tempo para o time de desenvolvimento passar a trabalhar em pair ou ambos no mesmo contexto. 
+
+## Tarefas de até um dia
+
+Um maneira interessante, e que eu aprendi no momento em que eu deixei o waterfall, foi que criar tarefas no momento do planejamento ajuda a ter sucesso na entrega e melhor ainda, quando eu divido uma estória em diversas sub tarefas, consigo perceber o tamanho real do que nos espera. 
+
+Infelizmente na maioria dos times, quando quebramos tarfas, pegamos alguns contextos macros e colocamos como tarefa, o que faz estorias muito grandes com apenas quatro tarefas, o que é ruim, porque gera uma expectativa muito grande para nossa área de produto, que vai ver uma estoria com quatro tarefas e vai achar que aquilo é pequeno e o resultado já sabemos, não vamos entregar, área de produto vai ficar chateada, vai gerar incertezas e cobranças, bla bla bla.
+
+Então além de quebrar, que possamos pensar e incentivar a quebra de tarefas e sub-tarefas de até um dia para serem feitas. Isso vai ajudar a ter visibilidade real do que é necessário ser feito para que aquela estoria possa ir para produção e o mais interessante, quando realizamos esse exercício de pensar em tarefas de até um dia, conseguimos chegar as vezes na conclusão de que estimamos muito abaixo ou muito acima, o que pode fazer nossa estimativa mudar. Esse percepção faz com que aos poucos, vamos tendo maturidade em planejar e estimar estorias.
+
+## Comparar
+
+Sim, invistam tempo comparando o esforço entre duas ou mais estorias, pois assim conseguimos voltar um bocado ao passado para conseguir prever o futuro.
+
+Infelizmente as pessoas não gostam de ficar comparando porque geralmente a reunião de planejamento é curta, as pessoas ficam com aquele estresse emocional de querer sair de uma sala de reunião o quanto antes, MAS, se fizermos o exercício e comparar, de quebrar em tasks de até um dia, melhoramos o humor no planning e passamos a enxergar valor necessário para que ele possa ser o mais acertivo possível e para que possamos passar com mais transparência o que realmente é necessário para que aquela feature possa estar em produção o quanto antes.
+
+Crie uma régua com estorias já entregues com suas pontuações ou qualquer métrica que seja utilizada para fazer o comparativo, e sempre esteja atualizando essa régua e com isso podemos usar sempre uma referência.
+
+## Conclusão
+
+A parte do planejamento é a mais importante em qualquer modelo de trabalho, seja ele waterfall ou ágil, porque a partir do valor que é dado no planejamento, as features que nos propomos a entregar, começam a de fato serem entregues. 
+
+Sempre escutei que toda estimativa é burra, porém, quanto mais acertivo eu for, melhor será, porque eu reduzo a capacidade de errar e quando eu tenho o mindset voltado para que toda estimativa é burra, a porcentagem do meu erro pode subir, causando assim distúrbios de todos os lados, que gera pressão, que gera turnover.
+
+Portanto, invistam tempo planejando as coisas, nem que leve o dia inteiro, mas invistam esse tempo planejando ponto a ponto, abram o código e busquem aquilo que é suposto fazer para que as estorias fiquem o mais granular possível, para que eu possa entender o que eu posso deixar com uma prioridade menor, que consigamos deixar de fazer algo porque é irrelevante para a feature em questão. 
+
+Planejar exige tempo e disposição, portanto, faça.
