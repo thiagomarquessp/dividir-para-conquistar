@@ -1,6 +1,6 @@
 # Dividir para conquistar
 
-A ideia desse material é mostrar como o processo de previsibilidade, planejamento e estimativa que estamos acostumados a fazer, seja pelas buzzwords ou simplesmente pelo que ouvimos falar está totalmente desalinhado com o conhecimento base em métodos ágeis.
+A ideia desse material é mostrar como o processo de previsibilidade, planejamento e estimativa que estamos acostumados a fazer, seja pelas buzzwords ou simplesmente pelo que ouvimos falar está totalmente desalinhado com o conhecimento base em métodos ágeis e como voltar as origens faz com que tenhamos sucesso.
 
 ## Bases literárias
 
@@ -12,7 +12,7 @@ Nesses quase dez anos trabalhando com "métodos ágeis" (o que não quer dizer q
 
 Quando chegamos ao estado caótico, optamos por olhar para o mercado atrás de gurus que supostamente resolveriam os problemas que sabemos como resolver, mas temos demasiado ego inflado pra assumir que o que fazemos é uma verdadeira porcaria não é mesmo? 
 
-Antes de chegar numa solução, que tem por base o "básico" do Agile, vamos entender o que de fato nos leva a essa incerteza (mentira): 
+Antes de chegar numa solução, que tem por base voltar para o "básico" do Agile, vamos entender o que de fato nos leva ao desespero:
 
 1. [Não prestamos a devida atenção naquilo que fazemos;](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/nao-saber-aquilo-que-fazemos.md)
 2. [Erramos porque somos preguiçosos;](https://github.com/thiagomarquessp/dividir-para-conquistar/blob/master/errar-por-preguica.md)
