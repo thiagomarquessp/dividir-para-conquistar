@@ -61,12 +61,15 @@ Após o terceiro sprint utilizando dessa técnica, podemos então abrir a tercei
 - **US001** -Criar fluxo de pagamento.
 
 **Primeira questão:** "Essa estoria está **MAIS PERTO** do **3** ou do **8**?
+
 **Time:** "Está mais próxima do **8**."
 
 **Segunda questão:** "Essa estoria é IGUAL (nível de complexidade) a estoria que definimos em nossa régua como **3**?
+
 **Time:** "Não, essa estoria é mais fácil que nossa estorias de 8 pontos"
 
 **Terceira questão:** "Essa estoria é igual nossa estoria de **3**?
+
 **Time:** "Não, é mais difícil"
 
 E então nesse momento que abrimos a **terceira** faixa, justamente o 5 e colocamos essa estoria como primeira a herdar a posição para que nos plannings futuros possa ser comparada.
