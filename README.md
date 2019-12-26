@@ -39,11 +39,6 @@ Mas com base nisso, a boa parte dos times de engenharia, quando passam pelo onbo
 
 Sei que é meio complicado lembrar dos nomes de quem estava lá, mas somos os primeiros a criticar quando vem um Product Manager cheio de documentação e comunicação por email e lá dizemos **"Indivíduos e interações mais que processos e ferramentas"** ou **"Software em funcionamento mais que documentação abrangente"**, mas sequer sabemos o que de fato foi pensado e por quem foi pensado. Por trás da filosofia ágil se encontra o uso da técnica do TDD e simplesmente continuamos a dizer que isso não funciona, sendo que o próprio Kent Beck estava lá colaborando no dia do manifesto e que entraram em um acordo que para ser ágil seria necessário a prática de TDD também, assim como técnicas de entrega contínua e indo um pouco além, quando falamos em métodos ágeis, ao lembrar dos valores, chegamos também de forma macro a valores do Extreme Programming (Comunicação, Simplicidade, Feedback, Coragem e Respeito) também criado por Kent Beck e ainda persistimos em dizer que XP não funciona e olha só que legal, o primeiro valor do manifesto ágil foi idealizado pelo próprio Kent Beck e não tem nada a ver com o que costumeiramente pensamos sobre mandar uma mensagem no slack pro product owner é pior que ir lá falar com ele, pelo contrário, tem a ver literalmente com a comunicação efetiva e feedback contínuo com a própria equipe de engenharia (o livro Clean Agile do Robert "Uncle Bob" Martin fala sobre isso).
 
-
-
-
-
-
 Quando chegamos ao estado caótico, optamos por olhar para o mercado atrás de gurus que supostamente resolveriam os problemas que sabemos como resolver, mas temos demasiado ego inflado pra assumir que o que fazemos é uma verdadeira porcaria não é mesmo? 
 
 Antes de chegar numa solução, que tem por base voltar para o "básico" do Agile, vamos entender o que de fato nos leva ao desespero:
