@@ -1,6 +1,8 @@
 # Não prestamos a devida atenção naquilo que fazemos
 
-Na nossa indústria, frequentemente fazemos as coisas acontecerem, ou seja, recebemos informação e desenvolvemos essa informação, seja em forma de projeto ou em user stories e normalmente o time de engenharia não se preocupa com a questão de estimativas ou de prazos, até porque esse tipo de informação normalmente algumas pessoas que estão no dia a dia do time acabam fazendo, como é o caso de um Scrum Master, Agile Coach, Product Owner ou Product Manager.
+Frequentemente em nossa indústria, fazemos as coisas acontecerem, ou seja, recebemos informação e desenvolvemos essa informação, seja em forma de projeto ou em user stories.
+
+Dado isso, teremos o cenário onde normalmente o time de engenharia não se preocupa com a questão de estimativas ou de prazos, até porque esse tipo de informação normalmente algumas pessoas que estão no dia a dia do time acabam fazendo, como é o caso de um Scrum Master, Agile Coach, Product Owner ou Product Manager.
 
 Agora, no nosso dia a dia dentro de um time de engenharia, conseguimos extrair dois tipos de informação que são fundamentais para o sucesso do trabalho, que são: 
 
